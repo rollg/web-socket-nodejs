@@ -1,0 +1,23 @@
+{
+  "name": "node-web-socket",
+  "version": "1.0.0",
+  "description": "Simple node js web socket server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stan119/web-socket-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stan119/web-socket-nodejs/issues"
+  },
+  "homepage": "https://github.com/stan119/web-socket-nodejs#readme",
+  "dependencies": {
+    "ws": "^1.1.0"
+  }
+}
